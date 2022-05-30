@@ -1,1 +1,1 @@
-Web game to testing one`s memory.
+Web game to test one`s memory
